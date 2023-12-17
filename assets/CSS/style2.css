@@ -18,8 +18,15 @@
   margin: 60px;
 }
 
-.paragraph {
+.actions {
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
   margin: 50px;
+}
+.actions p, .actions button {
+  margin: 10px;
+  text-align: center;
+  width: 80px;
 }/*# sourceMappingURL=style2.css.map */
