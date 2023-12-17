@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.princ_img {
+  margin: 100px;
+}
+.princ_img img {
+  padding: 5px;
+  border: red solid 2px;
+}/*# sourceMappingURL=style.css.map */
