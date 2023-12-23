@@ -10,7 +10,7 @@ btn.addEventListener('click', () => {
     let password_i = parseInt(digito_1 + digito_2 + digito_3);
 
     if(password_1 === password_i || password_2 === password_i){
-        message.textContent = "Password 1 correcto";
+        message.textContent = "Password correcto";
     }
     else{
         message.textContent = "Password incorrecto";
